@@ -1,0 +1,84 @@
+#banner {
+    width: 60%;
+}
+
+body {
+    text-align: center;
+}
+
+#left {
+    text-align: left;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+#center {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#price {
+    font-size: 1.1em;
+    color: #2688da;
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+    padding-right: 5;
+    padding-top: 5;
+}
+
+#pro_title {
+    font-family: sans-serif;
+}
+
+#btn1 {
+    vertical-align: middle;
+    color: #fff;
+    background-color: #2688da;
+    padding: 5px 10px;
+    font-family: "AvenirLTStd-Light", sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+ul {
+    width: 60%;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2688da;
+}
+
+li {
+    float: left;
+    list-style-type: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "AvenirLTStd-Light", sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.imgs {
+    width: 210;
+    height: 210;
+}
